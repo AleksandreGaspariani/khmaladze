@@ -1,0 +1,34 @@
+
+
+#contact {
+	width: 80vw;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	margin: 0px auto;
+}
+
+#contact > form > input {
+	width: 80vw;
+	border-radius: 5px;
+}
+
+#contact > form > button {
+	border-radius: 8px;
+}
+
+#devTeam {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+#devTeam > div {
+	margin: auto auto;
+}
+#devTeam > div > p > button {
+	border-radius: 5px;
+}
